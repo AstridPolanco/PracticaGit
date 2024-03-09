@@ -1,0 +1,7 @@
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Parcial\Parcial\obj\Debug\Parcial.csproj.AssemblyReference.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Parcial\Parcial\obj\Debug\Parcial.pdb
